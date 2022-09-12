@@ -1,3 +1,4 @@
+
 <img src="https://cdn.discordapp.com/attachments/995613566965133322/1014417950847021066/unknown.png" draggable="false">
 <div align="center">
   
@@ -6,20 +7,10 @@
   
   </div>
   
-  # Features
 
-- Setup 
-- Open 
-- Close
-- Add
-- Remove
-- Rename
-- Close
-- Reopen
-- Per Server Prefix 
-- Ping Command
+
+
 
 # 💎 Preview
 
-![](https://github.com/mrmotchy/stuff/blob/main/Unben6666666666annt.PNG?raw=true)
-<br/>
+![Preview](https://cdn.discordapp.com/attachments/995613566965133322/1018769243451441172/unknown.png?size=4096)
